@@ -10,6 +10,7 @@ https://wwcr.lanzoul.com/sanae
 没有技术含量，是一个可以兼容早苗、云崽、trss、nonebot2（真寻）、koishi、茶会机器人的QQ频道适配器
 
 本程序为qq频道的onebot实现端,文档地址:https://www.yuque.com/km57bt/hlhnxg
+
 启动参数:sanae.exe [Onebot实现的反向ws地址] [频道机器人appid] [频道机器人token] *[强制频道兼容](0/1)(默认0=不强制兼容) *[百度云审核的api-token](可选)
 
 启动参数实例
