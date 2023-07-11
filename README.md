@@ -4,6 +4,9 @@ go-cqhttp like QQGuild adapter(兼容OnebotV11)
 配合一键脚本食用
 https://github.com/Hoshinonyaruko/One-Click-Sanae
 
+国内源下载地址，
+https://wwcr.lanzoul.com/sanae
+
 没有技术含量，是一个可以兼容早苗、云崽、trss、nonebot2（真寻）、koishi、茶会机器人的QQ频道适配器
 
 本程序为qq频道的onebot实现端,文档地址:https://www.yuque.com/km57bt/hlhnxg
@@ -44,3 +47,5 @@ https://github.com/Hoshinonyaruko/One-Click-Sanae
 脚本使用，会更加简单
 
 交流群749890922
+
+会在qq频道公测时开源。
